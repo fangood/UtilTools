@@ -1,4 +1,4 @@
-package com.fch.utiltools;
+package com.fch.utiltools.test;
 
 import androidx.appcompat.app.AppCompatActivity;
 
